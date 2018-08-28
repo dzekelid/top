@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Hacker News
 x-complete: 1
@@ -28,4 +27,3 @@ paths:
       - Links
       - Stories
       - Top
----
